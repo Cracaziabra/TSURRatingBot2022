@@ -7,6 +7,8 @@
 
 Скриншоты созданного бота:
 
+![image](https://user-images.githubusercontent.com/69385617/180183747-f24c8388-65cc-45cf-81ca-43a4187140da.png)
+
 ![image](https://user-images.githubusercontent.com/69385617/180182796-8f303a65-5503-4d87-bad0-421bbff82b8b.png)
 
 ![image](https://user-images.githubusercontent.com/69385617/180183112-a0646a07-73c1-4ac4-83c5-176b7c1b71d2.png)
