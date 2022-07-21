@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/TSURBot
-    username: postgres
-    password: Cracaziabra
+    username: username
+    password: password
 
   jpa:
     hibernate:
