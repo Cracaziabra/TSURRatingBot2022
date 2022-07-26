@@ -28,7 +28,7 @@ import java.util.function.Predicate;
 @Component
 public class TsurRatingBot extends AbilityBot {
 
-    private static final String botUsername = System.getenv("BOT_NAME"); //имя и токен бота, записаны в environment variables (переменные среды)
+    private static final String botUsername = System.getenv("BOT_NAME");
     private static final String botToken = System.getenv("BOT_TOKEN");
 
     private final FormRepo formRepo;
